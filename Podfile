@@ -3,7 +3,7 @@
 
 target 'hhh' do
   # Comment the next line if you don't want to use dynamic frameworks
-  use_frameworks!
+#  use_frameworks!
   pod 'lsstt',:path => 'Lib/lsstt'
   # Pods for hhh
 
