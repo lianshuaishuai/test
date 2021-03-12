@@ -1,0 +1,6 @@
+framework module Pods_lssbb_Tests {
+  umbrella header "Pods-lssbb_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

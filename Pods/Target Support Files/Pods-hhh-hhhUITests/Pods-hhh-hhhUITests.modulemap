@@ -1,4 +1,4 @@
-framework module Pods_hhh_hhhUITests {
+module Pods_hhh_hhhUITests {
   umbrella header "Pods-hhh-hhhUITests-umbrella.h"
 
   export *

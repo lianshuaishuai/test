@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F3E6A917409D34D16A3CA1945A9D7B72"
-               BuildableName = "lsstt.framework"
+               BuildableName = "liblsstt.a"
                BlueprintName = "lsstt"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>

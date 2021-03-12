@@ -5,6 +5,7 @@ target 'hhh' do
   # Comment the next line if you don't want to use dynamic frameworks
 #  use_frameworks!
   pod 'lsstt',:path => 'Lib/lsstt'
+  pod 'lssbb',:path => 'Lib/lssbb'
   # Pods for hhh
 
   target 'hhhTests' do

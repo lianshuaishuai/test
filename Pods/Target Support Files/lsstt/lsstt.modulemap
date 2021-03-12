@@ -1,4 +1,4 @@
-framework module lsstt {
+module lsstt {
   umbrella header "lsstt-umbrella.h"
 
   export *

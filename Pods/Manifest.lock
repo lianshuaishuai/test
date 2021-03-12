@@ -1,16 +1,21 @@
 PODS:
+  - lssbb (0.1.0)
   - lsstt (0.1.0)
 
 DEPENDENCIES:
+  - lssbb (from `Lib/lssbb`)
   - lsstt (from `Lib/lsstt`)
 
 EXTERNAL SOURCES:
+  lssbb:
+    :path: Lib/lssbb
   lsstt:
     :path: Lib/lsstt
 
 SPEC CHECKSUMS:
+  lssbb: b604df8ea0ed8c1a280277211f40b4366d565192
   lsstt: 8d585f9f388222fb68dccc4b453449bf826fef8b
 
-PODFILE CHECKSUM: 861c44e1362ffaf3b7350b7bf6dc2b780d60339c
+PODFILE CHECKSUM: 9aa6d404a72ab32e48e58573cc5bf841b98c8186
 
 COCOAPODS: 1.10.1

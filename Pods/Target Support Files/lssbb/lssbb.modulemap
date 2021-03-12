@@ -1,0 +1,6 @@
+module lssbb {
+  umbrella header "lssbb-umbrella.h"
+
+  export *
+  module * { export * }
+}
