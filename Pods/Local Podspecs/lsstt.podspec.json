@@ -1,0 +1,22 @@
+{
+  "name": "lsstt",
+  "version": "0.1.0",
+  "summary": "A short description of lsstt.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lianshuaishuai/lsstt",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lianshuaishuai": "741312975@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/lianshuaishuai/lsstt.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "lsstt/Classes/**/*"
+}

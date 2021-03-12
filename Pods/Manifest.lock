@@ -1,0 +1,16 @@
+PODS:
+  - lsstt (0.1.0)
+
+DEPENDENCIES:
+  - lsstt (from `Lib/lsstt`)
+
+EXTERNAL SOURCES:
+  lsstt:
+    :path: Lib/lsstt
+
+SPEC CHECKSUMS:
+  lsstt: 8d585f9f388222fb68dccc4b453449bf826fef8b
+
+PODFILE CHECKSUM: 861c44e1362ffaf3b7350b7bf6dc2b780d60339c
+
+COCOAPODS: 1.10.1

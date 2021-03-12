@@ -1,0 +1,6 @@
+framework module lsstt {
+  umbrella header "lsstt-umbrella.h"
+
+  export *
+  module * { export * }
+}
